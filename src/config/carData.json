@@ -1,0 +1,12 @@
+{
+    "carNumber": [1000],
+    "nameOwner": ["Abraham", "Yakob", "Sara", "Yosef", "Itshak", "Vasya", "Moshe"],
+    "idOwner": 5000,
+    "adressOwner": 30000,
+    "emailOwner": 80,
+    "parkingStartTime": 500,
+    "parkingEndTime": 2018,
+    "isFine":2022
+    
+
+}
